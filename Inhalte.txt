@@ -2,3 +2,4 @@ Bootstrap mit Menübar
 CSS
 HTML
 API für SPieleentwicklung: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API?retiredLocale=de
+https://www.w3schools.com/
