@@ -1,7 +1,5 @@
 Bootstrap mit Menübar
 CSS
 HTML
-JavaScript
 API für SPieleentwicklung: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API?retiredLocale=de
-2D breakout game using pure JavaScript: https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
 https://www.w3schools.com/
